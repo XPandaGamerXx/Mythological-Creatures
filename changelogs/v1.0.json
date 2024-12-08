@@ -4,7 +4,7 @@
     "name": "Alfa",
     "version": "1.0",
     "is_hotfix": false
-  }
+  },
   "changelog": [
     "> * La mayoría de los items de las versiones anteriores fueron añadidos.",
     "> * Algunos items del addon fueron descartados al completo.",
