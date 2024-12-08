@@ -4,10 +4,10 @@
     "version": "1.0",
     "type": "Alfa",
     "changes": [
-      "* La mayoría de los items de las versiones anteriores fueron añadidos.",
-      "* Algunos items del addon fueron descartados al completo.",
-      "* Se removieron temporalmente todos los mobs del addon.",
-      "* El código del addon fue mejorado para funcionar en las versiones más recientes de **Minecraft Bedrock**."
+      "> * La mayoría de los items de las versiones anteriores fueron añadidos.",
+      "> * Algunos items del addon fueron descartados al completo.",
+      "> * Se removieron temporalmente todos los mobs del addon.",
+      "> * El código del addon fue mejorado para funcionar en las versiones más recientes de **Minecraft Bedrock**."
     ]
   }
 }
