@@ -2,7 +2,7 @@
   "minecraft:version": "1.21.43",
   "mythological_creatures": {
     "version": "1.0",
-    "type": "Alpha",
+    "type": "Alfa",
     "changes": [
       "* La mayoría de los items de las versiones anteriores fueron añadidos.",
       "* Algunos items del addon fueron descartados al completo.",
