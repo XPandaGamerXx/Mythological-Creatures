@@ -1,10 +1,14 @@
 {
   "minecraft_version": "1.21.43",
-  "changes": {
-    "1": "* La mayoría de los items de las versiones anteriores fueron añadidos.",
-    "2": "* Algunos items del addon fueron descartados al completo.",
-    "3": "* Se removieron temporalmente todos los mobs del addon.",
-    "4": "* El código del addon fue mejorado para funcionar en las versiones más recientes de **Minecraft Bedrock**."
+  "mythological_creatures": {
+    "version": "2.0",
+    "type": "Alpha",
+    "changes": {
+      "1": "* La mayoría de los items de las versiones anteriores fueron añadidos.",
+      "2": "* Algunos items del addon fueron descartados al completo.",
+      "3": "* Se removieron temporalmente todos los mobs del addon.",
+      "4": "* El código del addon fue mejorado para funcionar en las versiones más recientes de **Minecraft Bedrock**."
+    }
   },
   "total": 4
 }
