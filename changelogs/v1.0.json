@@ -1,7 +1,7 @@
 {
   "minecraft:version": "1.21.43",
   "mythological_creatures": {
-    "version": "2.0",
+    "version": "1.0",
     "type": "Alpha",
     "changes": {
       "1": "* La mayoría de los items de las versiones anteriores fueron añadidos.",
