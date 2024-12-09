@@ -6,9 +6,7 @@
     "is_hotfix": false
   },
   "changelog": [
-    "> * ",
-    "> * ",
-    "> * ",
-    "> * "
+    "> * Se solucionó un problema donde aparecía **/n** en los nombres de los ítems en algunos dispositivos.",
+    "> * Ahora las armaduras ya no son invisibles al colocarlas en un soporte de armaduras."
   ]
 }
