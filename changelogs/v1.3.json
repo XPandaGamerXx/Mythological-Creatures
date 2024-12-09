@@ -6,8 +6,9 @@
     "is_hotfix": false
   },
   "changelog": [
-    "> * Se agrego al **Troll** y al **Ice Drake**.",
-    "> * Se mejoró el modelo del **Ice Drake**.",
-    "> * La **Garra de wendigo** y la **Cabeza de wendigo** ahora se pueden obtener al matar al wendigo."
+    "> * Se agregaron los items **Escama de hipocampo**, **Espada de Hades** y **Cabeza de wendigo**.",
+    "> * Se agrego al **Cerbero** y al **Wendigo**.",
+    "> * Se mejoraron las animaciones del **Wendigo**.",
+    "> * El Cerbero ahora suelta la **Espada de Hades** sin encantamiento."
   ]
 }
