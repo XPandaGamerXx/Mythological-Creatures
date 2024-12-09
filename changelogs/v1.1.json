@@ -6,9 +6,8 @@
     "is_hotfix": false
   },
   "changelog": [
-    "> * ",
-    "> * ",
-    "> * ",
-    "> * "
+    "> * Se agrego la receta del item **Muslo de cocatriz crudo**.",
+    "> * Se mejoró el código del **Espectro** (Antes llamado Mini Wendigo).",
+    "> * Se añadió un nuevo sonido al lanzar el **Polvo Mágico**."
   ]
 }
