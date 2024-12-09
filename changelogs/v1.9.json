@@ -1,0 +1,11 @@
+{
+  "required_version": "1.21.50",
+  "status": {
+    "name": "ALFA",
+    "version": "1.9",
+    "is_hotfix": true
+  },
+  "changelog": [
+    "> * El addon ahora funciona en la nueva versión **1.21.50** de Minecraft."
+  ]
+}
