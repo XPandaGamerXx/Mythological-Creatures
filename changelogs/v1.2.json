@@ -6,9 +6,10 @@
     "is_hotfix": false
   },
   "changelog": [
-    "> * ",
-    "> * ",
-    "> * ",
-    "> * "
+    "> * Se agrego la receta del item **Lingote de plata** para el Alto horno.",
+    "> * Se agrego la receta de fabricación para la **Montura reforzada**.",
+    "> * Se agrego la receta de fabricación para la armadura de **Escamas Frías**.",
+    "> * Ahora al tener equipada la armadura completa de **Escamas frías** te dará inmunidad al efecto de debilidad y tendrás paso helado sin el encantamiento.",
+    "> * Se añadieron rarezas a todos los items del Addon."
   ]
 }
