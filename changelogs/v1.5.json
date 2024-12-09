@@ -6,9 +6,8 @@
     "is_hotfix": false
   },
   "changelog": [
-    "> * ",
-    "> * ",
-    "> * ",
-    "> * "
+    "> * Ahora los mobs pueden spawnear de nuevo.",
+    "> * El loot del ice drake fue añadido.",
+    "> * Se añadió el idioma Inglés."
   ]
 }
