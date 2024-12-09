@@ -6,9 +6,6 @@
     "is_hotfix": false
   },
   "changelog": [
-    "> * ",
-    "> * ",
-    "> * ",
-    "> * "
+    "> * Se corrigió un error que impedía generar correctamente hielo al correr sobre el agua con la armadura de **Escamas Frías** equipada."
   ]
 }
